@@ -14,3 +14,6 @@ bin/*
 
 # dep
 vendor
+
+# IDE
+.idea
